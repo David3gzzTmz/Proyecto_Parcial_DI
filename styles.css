@@ -2,8 +2,7 @@
 body {
     background-image: url(img/michefsitofondo.jpg);
      background-size: 140px 100px;
-    background-repeat: repeat-x;
-    background-repeat: repeat-y;
+    background-repeat: repeat;
     background-color: #cccccc;
   }
 
