@@ -151,7 +151,7 @@ div.adon {
     text-align: center;
  }
 
-#hp  {
-float: right;    
+.hp  {
+float: left;    
  margin: 0 0 0 15px;
 }
