@@ -25,7 +25,27 @@ h1 {
   font-style: italic;
 }
 
-h5 {color:grey; text-align:left;font-family:Arial;}
+h2 {
+  font-family: 'Abril Fatface', cursive;
+}
+
+h3 {  
+  color:#5858A1; 
+  text-align:left;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+  color:darkslateblue;
+  font-family: 'Montserrat', sans-serif;
+  position: absolute;
+}
+
+h5 {
+  color:grey; 
+  text-align:left;
+  font-family: 'Montserrat', sans-serif;
+}
 
 p{
   font-family: 'Montserrat', sans-serif;
@@ -68,14 +88,6 @@ ul#menu2 li{
   margin: 0 auto;
   padding: 15px;
   color: #138143f2;}
-
-h3 {  color:#5858A1; text-align:left;font-family:Arial;}
-
-h4 {
-  color:darkslateblue;
-  font-family:Verdana;
-  position: absolute;
-}
 
 p.clear {
   clear: left;
